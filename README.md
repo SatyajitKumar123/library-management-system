@@ -15,7 +15,7 @@ A comprehensive Library Management System built with PostgreSQL, featuring advan
 
 ## 🏗️ Database Schema
 
-![ER Diagram](docs/ER_DIAGRAM.png)
+![ER Diagram](docs/DIAGRAM.png)
 
 ## 🚀 Quick Start
 
